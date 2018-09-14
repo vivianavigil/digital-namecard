@@ -143,21 +143,21 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: Comfortaa;
     font-weight: 400;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: Comfortaa;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: Comfortaa;
     font-weight: 300;
     color: #575757;
     font-size: 12px;
@@ -168,14 +168,14 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #7ccaed;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
-	font-family: 'Muli', sans-serif;
+	font-family: Comfortaa;
 	color: white;
 	font-weight: 300;
 }
